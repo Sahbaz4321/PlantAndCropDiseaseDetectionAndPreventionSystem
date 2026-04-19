@@ -1,0 +1,58 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Glowing Outer Frame (Diamond Tech) -->
+    <path
+        android:pathData="M50,5 L90,50 L50,95 L10,50 Z"
+        android:strokeWidth="2"
+        android:strokeLineCap="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="10"
+                android:startY="5"
+                android:endX="90"
+                android:endY="95"
+                android:type="linear">
+                <item android:color="#00E5FF" android:offset="0" />
+                <item android:color="#7B5CFF" android:offset="1" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Inner Core (The Scanning Heart) -->
+    <path
+        android:pathData="M50,30 L70,50 L50,70 L30,50 Z"
+        android:fillAlpha="0.8">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="30"
+                android:startY="30"
+                android:endX="70"
+                android:endY="70"
+                android:type="linear">
+                <item android:color="#7B5CFF" android:offset="0" />
+                <item android:color="#00E5FF" android:offset="1" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Digital Pulse Lines -->
+    <path
+        android:pathData="M35,50 H65 M50,35 V65"
+        android:strokeWidth="1"
+        android:strokeColor="#FFFFFF"
+        android:strokeAlpha="0.5" />
+
+    <!-- Minimal Bio-Sprout (Modern Dot Style) -->
+    <path
+        android:pathData="M 50, 50 m -6, 0 a 6,6 0 1,0 12,0 a 6,6 0 1,0 -12,0"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M50,44 C55,44 60,35 50,30 C40,35 45,44 50,44 Z"
+        android:fillColor="#4CAF50" />
+
+</vector>

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">PlantHealth AI</string>
+    <string name="tagline">Detect plant diseases smartly</string>
+
+    <!-- Auth -->
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="full_name">Full Name</string>
+
+    <!-- Dashboard -->
+    <string name="welcome">Welcome,</string>
+    <string name="scan_plant">Scan Plant</string>
+    <string name="history">History</string>
+    <string name="reports">Reports</string>
+    <string name="profile">Profile</string>
+    <string name="recent_activity">Recent Activity</string>
+
+    <!-- Scan -->
+    <string name="upload_image">Upload Leaf Image</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="select_gallery">Select from Gallery</string>
+    <string name="analyze">Analyze</string>
+    <string name="analysis_error_title">Analysis Error</string>
+    <string name="analysis_error_hint">Full error details are shown below so we can debug the model issue.</string>
+
+    <!-- Result -->
+    <string name="analysis_result">Analysis Result</string>
+    <string name="confidence">Confidence</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="description">Description</string>
+    <string name="causes">Causes</string>
+    <string name="prevention">Prevention</string>
+    <string name="fertilizer">Fertilizer</string>
+    <string name="pesticide">Pesticide</string>
+    <string name="recovery_time">Recovery Time</string>
+    <string name="extra_care">Extra Care Tips</string>
+    <string name="save_report">Save Report</string>
+    <string name="share_report">Share Report</string>
+    <string name="report_options">Report Options</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="notifications">Notifications</string>
+    <string name="about">About App</string>
+    <string name="logout">Logout</string>
+</resources>

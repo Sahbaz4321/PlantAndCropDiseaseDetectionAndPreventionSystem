@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#8E6AEF</color>
+    <color name="primary_light">#C4B5FD</color>
+    <color name="primary_dark">#6D4DE6</color>
+    <color name="secondary">#7B5CFF</color>
+    <color name="secondary_light">#A78BFA</color>
+    <color name="secondary_dark">#5B34E6</color>
+
+    <color name="background">#F5F0FF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#B00020</color>
+
+    <color name="text_primary">#25164A</color>
+    <color name="text_secondary">#6F63A3</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Gradients -->
+    <color name="gradient_start">#7B5CFF</color>
+    <color name="gradient_mid">#8E6AEF</color>
+    <color name="gradient_end">#A78BFA</color>
+    <color name="scan_gradient_start">#7B5CFF</color>
+    <color name="scan_gradient_center">#8E6AEF</color>
+    <color name="scan_gradient_end">#A78BFA</color>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "383122295958",
+    "firebase_url": "https://plant-disease-d077e-default-rtdb.firebaseio.com",
+    "project_id": "plant-disease-d077e",
+    "storage_bucket": "plant-disease-d077e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383122295958:android:310a9e9231a214607346b7",
+        "android_client_info": {
+          "package_name": "com.example.ca2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzqyShph9KASIEefU_KGBK2FA-1syOfas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

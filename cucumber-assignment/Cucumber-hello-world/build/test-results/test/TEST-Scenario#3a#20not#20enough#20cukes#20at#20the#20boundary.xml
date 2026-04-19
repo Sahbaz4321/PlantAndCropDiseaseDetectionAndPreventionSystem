@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: not enough cukes at the boundary" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-04-18T16:09:04" hostname="LAPTOP" time="0.001">
+  <properties/>
+  <testcase name="Given I have eaten 10 cukes" classname="Scenario: not enough cukes at the boundary" time="0.0"/>
+  <testcase name="When I wait 2 hour" classname="Scenario: not enough cukes at the boundary" time="0.0"/>
+  <testcase name="Then my belly should not growl" classname="Scenario: not enough cukes at the boundary" time="0.0"/>
+  <testcase name="classMethod" classname="Scenario: not enough cukes at the boundary" time="0.002"/>
+  <system-out><![CDATA[I'm eating 10 cukes!
+I ate 10 cucumbers.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

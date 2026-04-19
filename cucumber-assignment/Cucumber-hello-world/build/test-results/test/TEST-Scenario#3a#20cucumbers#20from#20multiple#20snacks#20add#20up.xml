@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: cucumbers from multiple snacks add up" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-04-18T16:09:05" hostname="LAPTOP" time="0.004">
+  <properties/>
+  <testcase name="Given I have eaten 5 cukes" classname="Scenario: cucumbers from multiple snacks add up" time="0.001"/>
+  <testcase name="Given I have eaten 6 cukes" classname="Scenario: cucumbers from multiple snacks add up" time="0.0"/>
+  <testcase name="When I wait 2 hour" classname="Scenario: cucumbers from multiple snacks add up" time="0.0"/>
+  <testcase name="Then my belly should growl" classname="Scenario: cucumbers from multiple snacks add up" time="0.0"/>
+  <testcase name="classMethod" classname="Scenario: cucumbers from multiple snacks add up" time="0.005"/>
+  <system-out><![CDATA[I'm eating 5 cukes!
+I ate 5 cucumbers.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
